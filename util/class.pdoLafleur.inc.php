@@ -9,10 +9,6 @@
  * $monPdo de type PDO 
  * $monPdoGsb qui contiendra l'unique instance de la classe
  *
- * @package default
- * @author Patrice Grand
- * @version    1.0
- * @link       http://www.php.net/manual/fr/book.pdo.php
  */
 
 class PdoLafleur
